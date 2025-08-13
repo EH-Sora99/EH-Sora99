@@ -24,13 +24,56 @@ I'm curious by nature and love to learn about stuff, as well love to fix and rep
 # _What Gear I use_
 The computers I use is quite old and would be in need of replacement if I want to do more game design/development or more general dev work.
 <br/>But due to not having a lot of money to spend on new laptops or computer parts, so do I have to do the best with 10+ year old computers.
+
+**Main desktop computer**
+A budget build that took me 2.5 years to save up to and built it sometime in 2017 (I will add the specs later).
+<br/> I built it for more editing power and being able to play games with my friends.
+
+[The Specs]
+<br/>CPU:
+<br/>CPU Fan:
+<br/>Motherboard:
+<br/>GPU:
+<br/>PSU:
+<br/>Case:
+<br/>RAM:
+<br/>Boot Drive:
+<br/>Bulk Storage:
+<br/>Optical Drive:
+<br/>Miss Stuff:
+<br/>OS:
+
+**Laptops in use**
+<br/>[Mid 2012 13'3" MacBook Air]
+<br/>I got a mid 2012 13'3" MacBook Air from my high school in 2015 and later bought it from the school.
+<br/>I have draged that MacBook Air everywhere for 10 years and been a cornerstone for me in YouTube and learning.
+
+It running today Fedora Linux and hyprland and acts as my secondary device
+
+[Mid 2012 13'3" unibody MacBook Pro]
+<br/>A beat up unibody Macbook Pro I bought for editing and Photoshop and spent more on parts then what I paid for it.
+
 # _My Skill Set_
+I'm some what skilled in a lot and would need to brush up on things more.
+<br/>[**Programing Languges**]
+* C# (Really rusty, but mainly with Unity and "Mono Behavior")
+* HTML (Some what self learned, but really basic)
+* CSS (Some what self learned, but really basic)
+* JavaScript (Only some basics)
+<br/>[**Video, Sound & Softwares**]
+* Video editing (Self taught, due to YouTube)
+* Sound mixing (Some what self taught and school)
+* Blender (Some what self taught)
+* Photoshop CS6 (Some what self taught and school)
 
+* Basic understanding of networking and servers (Can setup a basic media server)
+* Basic electronic understanding (Can build and fix small and simple stuff)
+* 
 # _What's on my "To Do" learning list_
-
+-----------------------------------Not Fixed-----------------------------------------------------------------------
 I pickup stuff and learn about things as I go and need it, a huge reason why I have huge gaps in diffrent languages.
 
-I did learn some C# adn Unity in high school and basiclly get meltdown if I need to do something outside of C# and "Mono Behavior" in Unity and think quite slowly.
+I did learn some C# adn Unity in high school and basiclly get meltdown if I need to do something outside of C# and in Unity and think quite slowly.
 
 I'm working to have a better understending of C# and how to use it to build programs, I basiclly figued out very basic HTML and CSS by myself and used tutorials when I get stuck.
 
