@@ -1,6 +1,5 @@
 ## Hi there and I'm EH-Sora 👋
-
-# Test
+## About Me
 I'm EH-Sora and I mainly do art and not super focused videos on YouTube and don't really have consistent upload schedule.
 
 English isn't my native languge and struggle a lot without auto correct (and me having dyslexia dosen't help).
