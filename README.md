@@ -1,12 +1,13 @@
 ## Hi there and I'm EH-Sora 👋
 ## About Me
-I'm EH-Sora and I mainly do art and not super focused videos on YouTube and don't really have consistent upload schedule.
+Hi there, I'm EH-Sora and I mainly do art and make not super organized and unfocused YouTube videos and don't really have consistent upload schedule.
 
-English isn't my native languge and struggle a lot without auto correct (and me having dyslexia dosen't help).
+English isn't my native languge, Swedish is and struggle a lot without auto correct (and me having dyslexia dosen't help).
 
-I did study game design in high school and dumb as rocks at times.
+I did study game design in high school and dumb as rocks at times when I don't see what the issue is (usually I misspelled  something and don't see it).
 
-I'm curious and love to learn and figued out very basic HTML and CSS by myself.
+I'm curious by nature and love to learn about stuff.
+and figued out very basic HTML and CSS by myself.
 
 I have been using Linux on and off for almost a decade and been daily driven Linux for 3-4 when I got to know the system requierments for Windows 11.
 
