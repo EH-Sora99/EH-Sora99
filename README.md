@@ -1,13 +1,42 @@
-## Hi there and I'm EH-Sora 👋
+## Hi there, I'm EH-Sora 👋
+***I will update things as I go***
+
 ## About Me
-Hi there, I'm EH-Sora and I mainly do art and make not super organized and unfocused YouTube videos and don't really have consistent upload schedule.
+Hi there, I'm EH-Sora and I mainly do art and make not super organized and unfocused YouTube videos.
 
-English isn't my native languge, Swedish is and struggle a lot without auto correct (and me having dyslexia dosen't help).
+I don't really have consistent upload schedule and do a bit whatever I feel like making.
+<br/>English isn't my native languge, Swedish is and struggle a lot with read and write due to having dyslexia.
 
-I did study game design in high school and dumb as rocks at times when I don't see what the issue is (usually I misspelled  something and don't see it).
+I drink a lot of tea and masure in liters, I usully drink quite strong black tea with honey and don't care if it's still hot or not.
 
-I'm curious by nature and love to learn about stuff.
-and figued out very basic HTML and CSS by myself.
+# _My Background_
+I did study game design in high school and was more skilled in the art and 3D-modeling parts.
+<br/>I can some basic C# get somewhat working prototypes in Unity to get what I want to do across, but I'm really rusty on how things work, due to being about 7 years since I did game design/development and a lot has changed and I forgot how to do.
+
+I'm dumb as rocks at times and get stuck at very simple things, usually I misspelled something and don't see it where it is.
+
+I'm very creative, but can run into a brick wall where I can get multiple sketches out of a idea, but can sit and slam my head against the wall becouse something doesn't click and in my head and I will be stuck for weeks on it.
+
+I'm quite all over the place and struggle with keeping things organized and keep track of things and time (ADHD in a nutshell, medicated but still all over the place).
+
+I'm curious by nature and love to learn about stuff, as well love to fix and repair, modify and reuse things.
+
+# _What Gear I use_
+The computers I use is quite old and would be in need of replacement if I want to do more game design/development or more general dev work.
+<br/>But due to not having a lot of money to spend on new laptops or computer parts, so do I have to do the best with 10+ year old computers.
+# _My Skill Set_
+
+# _What's on my "To Do" learning list_
+
+I pickup stuff and learn about things as I go and need it, a huge reason why I have huge gaps in diffrent languages.
+
+I did learn some C# adn Unity in high school and basiclly get meltdown if I need to do something outside of C# and "Mono Behavior" in Unity and think quite slowly.
+
+I'm working to have a better understending of C# and how to use it to build programs, I basiclly figued out very basic HTML and CSS by myself and used tutorials when I get stuck.
+
+I know a bit of JavaScript, but struggle a lot due to text and I don't mix well.
+The plan is to learn C# for general use, figure out how to use HTML and CSS to create "web guis" to make things easier.
+Learn C, C++ and COBOL for "fun" and pickup things when I need.
 
 I have been using Linux on and off for almost a decade and been daily driven Linux for 3-4 when I got to know the system requierments for Windows 11.
 
@@ -29,6 +58,13 @@ I can setup a basic media server, but can't get Samba working as it should.
 I'm willing to learn and if I have some kind of external push and a interested in something I can keep working on it.
 
 I will update the README as I go and learn how to format things
+
+## To-Do
+1. Make it readable
+2. Who I am
+3. Better orgenized
+4. What I know and can do?
+5. What I what to learn
 <!--
 **EH-Sora99/EH-Sora99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
