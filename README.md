@@ -30,18 +30,18 @@ A budget build that took me 2.5 years to save up to and built it sometime in 201
 <br/> I built it for more editing power and being able to play games with my friends.
 
 [The Specs]
-<br/>CPU:
-<br/>CPU Fan:
-<br/>Motherboard:
-<br/>GPU:
-<br/>PSU:
-<br/>Case:
-<br/>RAM:
-<br/>Boot Drive:
-<br/>Bulk Storage:
-<br/>Optical Drive:
-<br/>Miss Stuff:
-<br/>OS:
+<br/>CPU: Intel i5?
+<br/>CPU Fan: ?
+<br/>Motherboard: Asus ?
+<br/>GPU: Intel graphics ? (Had A Asus AMD Radeon HD 7770 Dual-Fan 2GB)
+<br/>PSU: Corsair 550W ?
+<br/>Case: Fractal Design Define R5
+<br/>RAM: 8GB DDR4 ?
+<br/>Boot Drive: WD Green 128GB m.2 SSD?
+<br/>Bulk Storage: 1TB Seagate Baracuda, 2TB Seagate Baracuda
+<br/>Optical Drive: Asus ?
+<br/>Miss Stuff: cheap Bluetooth USB, Asus Wi-Fi PCIe card?
+<br/>OS: NixOS with KDE Plasma (Going to swithch to Fedora Linux with Hyprland)
 
 **Laptops in use**
 <br/>[Mid 2012 13'3" MacBook Air]
@@ -70,25 +70,56 @@ I'm some what skilled in a lot and would need to brush up on things more.
 * Basic electronic understanding (Can build and fix small and simple stuff)
 * 
 # _What's on my "To Do" learning list_
+I have a quite long "To-Do and Learning" list and due to not working with tech and software, so are my learning a bit diffrent.
+**<br/>[Things I have laying around that neet to be fixed]**
+* Wierd Xbox 360 controller (Cable need to be replaced)
+* PS4 controller (Need new battery, and springs for the triggers)
+* Multiple Bluetooth headphones (Multiple Bluetooth headphones with diffrent issues)
+* USB-C convertion on a crappy Acer laptop (Just annying to deal with clunky laptop charger & SSD swap)
+* What's wrong with my Toshiba laptop (It boot loops)
+* Fix PS4 (It doesn't boot correctlly, but works)
+
+<br/>**[Programing Languges & Software]**
+* _C#_ (A more general knowledge of use & more wide use outside of game dev)
+* _Godot_ (Becouse I refuse using Unity)
+* _CSS_ (A better general knowledge and more advance things)
+* _HTML_ (A better general knowledge and more advance things)
+* _C++_ (Why not and something that could be good to know)
+* _C_ (Why not and something that could be good to know)
+* _COBOL_ (Why not and something that could be good to know & just for fun)
+* _JavaScrit_ (I don't like JavaScript, but it's something good to know)
+* _Java_ (I don't know how much it diffrence from JavaScript)
+* Brush up on _Blender_ (Been awhile and a lot of versions since I used it "daily")
+* _Photoshop_ (Animation & Pixle Art) (I can handle Photoshop, but need to learn more)
+* Some basic music theory & music writting (aka not randomly hit keys in Logic Pro and go by "feel" and figure things out)
+  
+# _Projects I'm working on_
+***A Silly Wizerd Game***
+<br/>A small project where I brush up my knowledge in C# in game dev and learning Godot (C#/DOTNET), becouse Unity crash my MacBook Air.
+<br/>The original goal was to have a "working prototype" done by July 21st (2025) and work as away to kill time, but due to reasons so did my timeline fall apart.
+
+The game is basiclly for me to "relearn" C#, learning pixel art and animation, Godot (a bit of a pain) and music.
+<br/>The main thing is I have locked myself to use my MacBook Air and phone for getting the bulk done, my MacBook Pro just for Photoshop.
+
+# _Projects I'm thinking about_
+The large project I'm thinking about doing, but have to wait due to cost.
+<br/>I have been wantining to build a "mini rack" and have a compact general use server.
+
+I don't know what I want to put into it, but most likely a some kind of Raspberry Pi based web radio box, general use Mac Mini and mini PC, as well file server and media server.
+
+# _Gear Upgrades_
+My gear I use is getting really old and in need of an upgrade.
+* A well speced Framework 16 laptop (would be my main work machine)
+* A M4 MacBook Air (Personal use and to run more up to date software
+* A propper NAS (aka something that's just "Plug-n-Play" and not something that "kinda work")
 -----------------------------------Not Fixed-----------------------------------------------------------------------
-I pickup stuff and learn about things as I go and need it, a huge reason why I have huge gaps in diffrent languages.
 
-I did learn some C# adn Unity in high school and basiclly get meltdown if I need to do something outside of C# and in Unity and think quite slowly.
 
-I'm working to have a better understending of C# and how to use it to build programs, I basiclly figued out very basic HTML and CSS by myself and used tutorials when I get stuck.
-
-I know a bit of JavaScript, but struggle a lot due to text and I don't mix well.
-The plan is to learn C# for general use, figure out how to use HTML and CSS to create "web guis" to make things easier.
-Learn C, C++ and COBOL for "fun" and pickup things when I need.
 
 I have been using Linux on and off for almost a decade and been daily driven Linux for 3-4 when I got to know the system requierments for Windows 11.
 
 I like tinkering, take apart and build stuff to learn about it.
 I didn't have a lot of money when growing up and learnd how to fix, modify and reuse to keep it alive longer.
-
-My main machines are my ancient mid 2012 MacBook Air that is running Fedora Linux and Hyprland as my secondary device, a beat up unibody mid 2012 MacBook Pro I use for editing and Photoshop.
-
-I'm working on picking up game design/development again becouse it was something I really enjoyed doing in high school.
 
 I want to build a HomeLab or more of a propper server, but I don't know what I want to put into it and what I would use it for.
 
