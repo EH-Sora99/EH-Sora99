@@ -135,10 +135,7 @@ I will update the README as I go and learn how to format things
 
 ## To-Do
 1. Make it readable
-2. Who I am
 3. Better orgenized
-4. What I know and can do?
-5. What I what to learn
 <!--
 **EH-Sora99/EH-Sora99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
